@@ -928,7 +928,7 @@ textarea.form__input {
 }
 
 .form__button:hover {
-  background-color: #507777;
+  background-color: #206070;
 }
 
 .form__button:active {
@@ -1587,7 +1587,7 @@ body {
 
 p {
   padding: 0 3%;
-  color: #000000;
+  color: #242630;
 }
 
 .light {
